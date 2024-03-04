@@ -1,0 +1,16 @@
+body{
+    background-color: navajowhite;
+}
+h2{
+    text-align:center;
+    font-style: italic;
+    color: white;
+    background-color: darksalmon;
+}
+p{
+    text-align: right;
+    align-items:center;
+    align-img:left ;
+    display:flex;
+    justify-content: space-between;
+}
